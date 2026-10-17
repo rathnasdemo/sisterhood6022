@@ -20,6 +20,3 @@ Sisterhood publishes videos on YouTube as [sisterhood](https://www.youtube.com/@
 
 The articles on this site are written versions of those videos, each one linked to the original.
 
-<!-- galascribe:demo-notice -->
-**This is a preview.** Galascribe built this site from Sisterhood's videos to show what a written version of the channel could look like. Sisterhood hasn't claimed it yet, and it is hidden from search engines until then. Questions: support@galascribe.com.
-<!-- /galascribe:demo-notice -->
